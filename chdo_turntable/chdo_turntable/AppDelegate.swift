@@ -1,8 +1,8 @@
 //
 //  AppDelegate.swift
-//  chdo_fold
+//  chdo_turntable
 //
-//  Created by chdo on 2017/3/14.
+//  Created by chdo on 2017/3/8.
 //  Copyright © 2017年 yw. All rights reserved.
 //
 

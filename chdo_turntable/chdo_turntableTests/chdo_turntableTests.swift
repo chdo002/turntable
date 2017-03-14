@@ -1,15 +1,15 @@
 //
-//  chdo_foldTests.swift
-//  chdo_foldTests
+//  chdo_turntableTests.swift
+//  chdo_turntableTests
 //
-//  Created by chdo on 2017/3/14.
+//  Created by chdo on 2017/3/8.
 //  Copyright © 2017年 yw. All rights reserved.
 //
 
 import XCTest
-@testable import chdo_fold
+@testable import chdo_turntable
 
-class chdo_foldTests: XCTestCase {
+class chdo_turntableTests: XCTestCase {
     
     override func setUp() {
         super.setUp()

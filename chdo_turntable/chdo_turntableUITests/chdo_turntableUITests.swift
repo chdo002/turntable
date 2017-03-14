@@ -1,14 +1,14 @@
 //
-//  chdo_foldUITests.swift
-//  chdo_foldUITests
+//  chdo_turntableUITests.swift
+//  chdo_turntableUITests
 //
-//  Created by chdo on 2017/3/14.
+//  Created by chdo on 2017/3/8.
 //  Copyright © 2017年 yw. All rights reserved.
 //
 
 import XCTest
 
-class chdo_foldUITests: XCTestCase {
+class chdo_turntableUITests: XCTestCase {
         
     override func setUp() {
         super.setUp()
